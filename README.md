@@ -1,4 +1,6 @@
-# SatyaDrishti web
+# Satyadrishti
+
+AI-powered civic complaint verification system using computer vision to analyze image relevance, classify civic issues, assess authenticity signals, and support administrative review.
 
 Landing page plus a working email/password auth flow: register, sign in,
 and a protected `/dashboard`.
